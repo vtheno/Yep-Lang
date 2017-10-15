@@ -1,0 +1,4 @@
+* Yep , yet another programming langauge.
+** The Language only provide 'define'
+** emmmmmm... All right, I just kidding. Now it's empty
+
